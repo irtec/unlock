@@ -2,6 +2,11 @@
 Buka NVidia brae
 
 <pre>apt-get update && apt-get install gcc binutils make linux-source</pre>
+<h3>Block modprobe</h3>
+<pre>nano /etc/modprobe.d/blacklist-nouveau.conf</pre>
+<pre>   blacklist nouveau
+   options nouveau modeset=0</pre>
+<pre>update-initramfs -u</pre>
 
 <h3>Download driver</h3>
 <p><i>https://nchc.dl.sourceforge.net/project/restream/NVIDIA-Linux-x86_64-418.43.run<i></p>
