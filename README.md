@@ -1,11 +1,7 @@
 # Unlock
 Buka NVidia brae
 
-apt-get update
-apt-get install gcc
-apt-get install binutils
-apt-get install make
-apt-get install linux-source
+apt-get update gcc binutils make linux-source
 
 <h3>Download driver</h3>
 <p><i>https://nchc.dl.sourceforge.net/project/restream/NVIDIA-Linux-x86_64-418.43.run<i></p>
