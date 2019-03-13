@@ -20,4 +20,5 @@ Buka NVidia brae
 <h3>Download patch & install patch driver</h3>
 <pre>wget https://raw.githubusercontent.com/irtec/unlock/master/patch.sh</pre>
 <pre>bash ./patch.sh</pre>
-   <h2>Thanks https://github.com/keylase</h2>
+   
+   <p><i>Thanks https://github.com/keylase</p></i>
