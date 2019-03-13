@@ -7,5 +7,5 @@ Buka NVidia brae
 <pre>./NVIDIA-Linux-x86_64-418.43.run</pre>
 <h3>Check driver</h3>
 <pre>nvidia-smi</pre>
-<h3>Download Patch</h3>
-<pre>wget </pre>
+<h3>Download patch</h3>
+<pre>wget https://raw.githubusercontent.com/irtec/unlock/master/patch.sh</pre>
