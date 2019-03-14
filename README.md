@@ -9,8 +9,8 @@ Buka NVidia brae
 <pre>update-initramfs -u</pre>
 
 <h3>Download driver</h3>
-<p><i>https://nchc.dl.sourceforge.net/project/restream/NVIDIA-Linux-x86_64-418.43.run<i></p>
-<pre>wget https://nchc.dl.sourceforge.net/project/restream/NVIDIA-Linux-x86_64-418.43.run</pre>
+<p><i>https://excellmedia.dl.sourceforge.net/project/restream/NVIDIA-Linux-x86_64-418.43.run<i></p>
+<pre>wget https://excellmedia.dl.sourceforge.net/project/restream/NVIDIA-Linux-x86_64-418.43.run</pre>
 <pre>chmod +x NVIDIA-Linux-x86_64-418.43.run</pre>
 <pre>./NVIDIA-Linux-x86_64-418.43.run</pre>
 <h3>Enabled Persistence</h3>
